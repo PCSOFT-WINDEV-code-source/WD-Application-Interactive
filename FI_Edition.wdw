@@ -1,0 +1,226 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_Edition
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_Edition
+ identifier : 0x265437a6008a3599
+ internal_properties : CAAAAAgAAABtv/EHrLVM+AQjcDUfBiWeZBZgrvvrqxT2mZeA6oLrkl5L3d+dSxaTe0owYTt36G3A6cWJgKSh6shFTC4MEHI2upXjs7OdC0o1oZm46XBdGTQ6Sc1iV/oBaa5uKfBUmqcCPpnKJ18hNuN1ByjG2oD1ua9fk62E7D32bbS61FMRRGih0jTQpot51B5MdCQ2lCBwZ9EirCOnbO2CBYx9TxjQLtQsFTfunGNj2dsA3WrAO4wkwsC89p4wOR7GBRdsOyKP+AdnUjmkFf2dro98OPhkh2/K6KyXxnn2AuVBPluYL2HZpTf4zP+XK7Qk7pTiT3qqZbxvb4ZUE80OrPNkCvHVsH//1AT9swrdhK41HjyzXdm9H8Kyo09JMyhIZg+UHpZ5e3zv3CJY+JQfGvB6fy84CnHbs8Jmg81NQasHa3WOctKuDMrWVAeh7vK3awW0YDAOGtKAojnUYrTcaxqTu9dfuxeV9XWNV0s2LuvQLHUaNNC36Cit1hinQpWkbG0rmqSriKgLAlfFlLF2EKu9g3nH7EovxTIg8NrNB9tXVtj9bnzZiSEdA2YFrRm1HASx0wGmiavXJk9yHyUCJ+tSMETflJBQw2OsiqSmo39TQHubFdFLQfvc3qr8NfNHmd7f0+mXDKfgENDDQCnrFooGw09N63T6kRfLYJq2G1XtvqATMUfGO0excjAZHRScvUQuZFR4/A==
+ properties :
+  width : 852
+  height : 581
+ controls :
+  -
+    name : FI_Edition
+    identifier : 0x265437a6008b3599
+    internal_properties : CAAAAAgAAADy9MwgNf1K1qslR112Tjb8tYeK23Nx9FMgZ6dYoKiqaTxjXa2/QuG+f7RlstOmJ+ZLtBX5fSAarL5CbD48kZOj6TESwAkoJ6t//u1LRt5gOPJLJjXgS+XtxGogARUYFYv8BPPUgTvwI0gY78i76naGH9+FIgafchs6oVD5xjnV/3Ns6+3D2UXCbmvhcZ+4fbubaqnsodzTt9FDJNfbIXL3wLnMcs/mWXx+udKYrpmOpFU4Jdn725ptO+pTihivd7O3IFybo7C+1SUwFeIgtG3JCuiuYYJXeRFnP96RwUiuXsMI15p7QxXia1NVKSFDOXA+OUmGWiMeejd3ivG2ejLMgfHoMJrVFlDObFqkq9kc9OWP4SgbCERiff0d2WMAIGuUUZ+nHgcLWIkKu69qlwDH3VbrhiDB9VAdSZa77XHnrn5jSai6vlbNE6INGUC5HIdj/uITDYEVvlWcBZnLdi5ido61Jgs2Rj2z1zmN6Q==
+    properties :
+     width : 852
+     height : 581
+    controls :
+     -
+       name : IMG_Plan
+       identifier : 0x265437f000b15570
+       internal_properties : CAAAAAgAAAB0Nhtojtd/iikoIJY+OHoACjISOEtHzWerDb5ZbL3PNFnPx+Qcypwgl+qRn72tWK41OeOXDnnOOLzFh3ALXCtbQs9RtLzlLBVAMbt6wiIwpi1v8BpLS3iPaxrE8YAE6cCs86n0RUJh7LBBzJ3LT4neaOFWA0zlsz4bHXaKIWP0B4+QqNtWzvViiPwzLhLN1KYO89Ty5HxH6nCy5KndJZMHkk5MGPQbW9jTayDL7bRxFH4u50L/l/1VhAdAFUTu2JIyOyuW3Jc/pjlYVpU6jroEYzE+gEk36NwyHnFGH4FMwFKHAT8aY8xpsakKqX4pkheqa+3UgU0J4hjv/Q0x6Z2QkD1On0k9t4M3oiAO9QH4IeZq5o8yny+/XATYEv0Fm6U48bYJPRrwlRwKbw1q722iq9IQfh6P826T1FHbMUgAm64mjGGQoA4X7YN/r846hL822cHhS0RxDItdAUeU6aePoh+GcuapheOlsyqgwK2Ws+t/xDxY2UNIjGTgA2IOrltwXxCVZLU/+Y8soz4yOmU1zWBnw2k+Mm3Q7J3MAtMMclmCtD9Pz7vkx+4XZcQ5D5I1duVOzsxzfqcorzXbpmd54wg2roozv6fG04DidcaXnDuE5+XxOhX6/uWvm0F0yVfxwttA7ZgYvEktkAnqXk9ZXLfb0nUhQLRdaczhq/zLSd6nb+/cDjdyTlyz8Se1m5F7TpLJqjMC6EiliXK7xIwduTfe5YBes7NbLHSzkPRq+LdOXY7j6TCFoTrbUVy7aeV7vZRO30PCcqRTV0M3mtcp/bL5zGZzLR6nyeTz8XLtqc8yF56JimaK7+qX3V3q+O6+Hr9o6aY+MhdOhRm3gMMcPam9UnBS+ZKqkccij7lP38cZCBr8j82xL2WYNwAIOSIZQ/Crx2M9ioIrswtv
+       properties :
+        width : 852
+        height : 581
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           code : |1+
+            
+            moimeme..FenEditionAutorisée = faux
+           type : 14
+         -
+           type : 18
+           enabled : false
+     -
+       name : BTN_Lampe_3
+       identifier : 0x26546ce10109225b
+       internal_properties : CAAAAAgAAACM9M3el3t9lIXob/iDM6fGtipRDZzcxmvlCZqqP+q2YfTnchZrVuWSIe639VL4S5wiuDpy2pTA7bsnUjqCSxvPufeQ2eO2FCYlM2cSOtli07MX48eK+uuv6AoepfFOAqPM0eMnwvymy0o/Rxg7PiZe0CaJDYWa4IDYF10KtGu+Jb5Fm+zFh1OlBxFVo5PfcCKkK0H6HUBUL7v7iLRm6zSn8f0ayOscZAVL2bNCXip5u+U/2VJtm3hFxn8h2rdFOkzGv52rQpwxRmdUvX1d/L0amyVEE4xlv1y4feb/0wyHRyNOBPAtooyM28fzBJ74+fex+kQYQLrCDG3YsFfdkdWUwaiSUkMJxPkTv944E8qED3lteSb1XumFxOPCZdGUx6zQfyDtsVAw/n5k1RmvHv4inb/AcmuNhV7FyRbkwTWMQDViFUiIW1ZZKdjyMGJO0DtVvUCblxe/s+GBEGfRYTfvR84DgLARoHH4vu6qD+xSMz7RlCsFieJ3qA2eaVfYjxgf0Rh6oo/Y8UKZpus1UPMz/1VNN18l/Rn0zYZH8vrn/a2JQ0JTVgmld0IiBVlJXbZxgMITSrswKHDq8s5wYE0hBocXDSHSS1vfoELHle1hRmrDIIPiOh4QiVeCSUeFNlTSRBwpC/G/KoKtLm5EL0kbESISzFGfrNLNVnpTiLUUI1BpO36+1L3HTvmejVEEuIwM6rb7X6U4cpUqPGwArSorsXU1MT4LpzeyVRaIOjeLRIcUbbKYIk19McmdrttOjEY37sA46WqXL8+wPA5N5xZtuYTQZ0LOVL3F7c3EIuMvdV6ZtOvdTAaRyf9QSw==
+       properties :
+        x : 587
+        y : 146
+        width : 72
+        height : 72
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+            SwitchLumière(3)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : LIB_Température_2
+       identifier : 0x26547bc104133cee
+       internal_properties : CAAAAAgAAADCtd3tnJNMgeKDYR02cY6HylZr/xL53SsJ2NtPc4wZ7DavkuJHiNS1SXYUtIzO/WFP6J27p4HOMNAWgi6NCkv/GzYpdX0+qqgHExvSuASyY5dHCPrVJUvnO2eNWZ6iyzK3MWRQM4ZswG0ntsT/k9ZAPZFfomPOP+EBa3RIksF2aSrt68BBTAiPkpUKD4Qgqsnd5uFTS4QdzZIKAHY2oETNsBgNe5cU0tI1JyUCoicAEvnT19tvLuQmyLnNidOGsLsXndTGSfG8IKetXXPahhxuoUWPAok+W13Zk78nZxGkOM1wH8kov/Vx42vqkyjambdVWZuCTa29zooc62gnjGvLJtdcHnSyGNf2kWl4/zw2kU7FTXkmOv8PjW4+iAMtr3mmB4Jc9RLNsbzhtw6dpB/GS6wMK2r5Q9QFVT6NPKQUpuXZMECjZ211ngjk1SoBWu9Qu9X5cnYj0nqvBdEnqcIEZH7rGR2Mu6nF/HY4NRNku0A2avW0MvN4Yg==
+       properties :
+        x : 722
+        y : 213
+        width : 105
+        height : 41
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Température_3
+       identifier : 0x26547bc4041749bf
+       internal_properties : CAAAAAgAAABm6fHBwMeIRTZXleEKpeqj1rJXi751QYf11MdLP4hdUMrjlua78ogdYfpMGFRCLd1/wKHHVz3eSJS0NvpJMiOA46FvLzk63lQT31ceNJB2CrBXaBIt1TtHew8NwdYiS5In+Zzw024U2NWnTtT/2w64dTHP2iven/EBo8Tw6mGWyRpFM6DB9NA3atUSb7RY0qH1JlHLY4R9zVJygP6OYMQtcMAFC7fMGnp9180SEq/4auFTB2MXzlRGKAH94TfytLdLkRiCnV3oBIvBYXeeIpA69XnjXh1al8FNx1NbSw2oxGH0g0WMm3Hldx+eN9zWXeMZTU9OoYmpAv6Az0zLmE83imvgOliORPvKxS28M1hKrRJZkTVaxlsz8QKyHNcJk+UKO0Z4+Q6JpXKV+8IJiPMaP1jgR04TY8eEdWJdlDxEOG+v3i6xCcP3KM4quwgTlD16OR8tTlJHtl4D6TUDjaZoyNpPpYFgl4Xh2FJkGT+wBwx6JklgThccxg==
+       properties :
+        x : 555
+        y : 429
+        width : 105
+        height : 41
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Température_4
+       identifier : 0x26547bc5041c4e53
+       internal_properties : CAAAAAgAAAB7O1ysqXO3oy9+3Te4LEDWOyC+cv0QI2lcXsFtfJ+WgX90caE/4A3ImZPAfJnWTvNYVlE2hrrHTSMouUVQrNcKTkjXXUmXGSLVJN3QJ+7qVSRhYB5qrtsB8IZC9B1OEYyjOAgxmT0P6/65RHqRUodmQDr9qqAKiVvukAwblKT4obfVcXrF+CSxZTMcQXuhkn+GlwZmCqUnjVHbNKwcF6psAXk1D7YUBnrzDuDzX1nupTXBM3zdv9a/Z+IJ1/k55Z+5LRtuYqX/033ppEUDmWF+8X8OyGamgjiT0VafehI71C0YIFXPOxBgM0kT+yvbyJ95GUooGquGbwxWzh48k/zZlGM7Lpech94qPWqIZmk9HxptyHv3tnrCjUS7yCpqSo26dYNoNG5C7srZOlJEmdIW/+Lt4Ve3vpYuGqi/t36pkQ7imQYP2GOdKnCxgur7PgT3zKQoLsaBLxzfqOFlPbtrsAdt6bpIePxhoMOvi7lVBQ6SYibjsjnBmXE=
+       properties :
+        x : 310
+        y : 34
+        width : 105
+        height : 41
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Température_1
+       identifier : 0x26547bc604225316
+       internal_properties : CAAAAAgAAAA5/Rpum4mVfY1cm+3eGvaklVYQgIs+WSGCoJPTtqmA64lmKECTG9+HMjQvG2Dda+n2n0CayNDcINIpC0M/U7tQXhKTw4tJ/aZc1NOuZWQoZ3SZVY/+juVUJ3XABUfhBEXax0iyKuT8OkoLwcdJmxcgQiwl+CZAr8X8hoKBIiJ+n7HT53rzzsoHL0nCQ7mvmJVcXQCVogGqd8vf+FEi6nO7AVkgdn8MahsAggoSG+7jnVWBc3z9P5bf50Ip99lp1a8Jnase0tWvYw0ZzKixE0A9PPWpDa1AvRzb/RtXaVE9Emdsytq4lOykI0V7U09/bH/B1WpIZmfEKcqUjNj2yUanQpHp0DE6GTY+bR5cBMvj2XTh+vFvDgwdMJfOeYtxndJBmELRy6d5L8+gW3FVqL3vjG/Emj7oc0+DEdnOgvsqHINndjm8Y3bua3cK6Q1xgKq/9oCE0GQde+zbyLExiRfrKJu/T8BC9hIDchWdiUMjT/D0xEy55Hf/2zM=
+       properties :
+        x : 96
+        y : 34
+        width : 105
+        height : 41
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : BTN_Lampe_1
+       identifier : 0x26547bcd04296e6e
+       internal_properties : CAAAAAgAAABIphEtJyR+XXaEmR9MkR+20+iwgt8v0OtkCgttdnACm9DQ92StVbLrbB0DbjRKlNyCj1/fwWRUsi/kVhKSEA5kKAmONSo/WU5eQgq1TwgpZyvkRjbNqr3CLuGESg7eOh1SLnVpX2C2/mr+hZO77Hl5KIz2tDuso3GdUCB8dOUbWYfIjNN+rJ2KWlJ8VA2UVM6ltoDBlIjyUx/pXJX2NB14QoDOob9HyAl9rTD9onSuBgkHwEVPb+XlaxgKTC3ffh/l2PMoqKf+pFAOLhUFIvHzEPpf79p6/PGDkej/scavUGybzxMq51BaLx27eGsGBV7+LrI8vGsI7IVf0ptl4LFQ+CzBV/DM4Gc7uthVbDPZEOFbmy5X7L70gRDCK0E3ftoRXURKww623G27cSrXUAqpCZQFgnh/RB8urLlJagJ8bSNL4u40twiZLnf53rCiXXIfZfcVwrlXtbicyYAu1P7VHSwxzXL/a8KYd+DfWkqhShoe/ZkYpc55flqbmfcleywkb619rOxY0WnYn3mF9ITZXzMK6Ki33JfuKfICztvQ51rLcogc3IKI1yZcf+ehtliL6r9DzSq8LwgUx50JIAZsVjyBTCWKccoVJNpDHEfZLC9jF7PLcASdKWT8iMgDIqAKM5BZPTR7B7KQI30eDBWo35eyTW0R86QVLCFv27JxNhokoa/mP27n9MrOaCheljvhaVsLuNeq+5tTlDVKSRYH9SvGF7ONxxV6387kmJxrtclmfQDon+Ryi24zZ1SJuq3gWypGKgJs5VGHL2/4JQ6HZ0zmw2c=
+       properties :
+        x : 96
+        y : 120
+        width : 72
+        height : 72
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+            SwitchLumière(1)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_Lampe_2
+       identifier : 0x26547bcf043073cd
+       internal_properties : CAAAAAgAAABXAzwPZLBQgEiQJsJ1vGQssrX+EvlPdEylHaYtaUiPoKdpPehxFN8UnlzAetbQh/xgs5OLZagTCuzKlxjRxKJoveWJohXeOSqwBHcwarP9O2NPrCcpuFCOc0tznJ2Fh1dKYb18jqXrNTPthm5jfHKNWTnAEnpRG9c6NAQlQD+yVJ706CEp2/E7iMqbIXqB1s6NSmzmCHePbmZB6XAEQ3xry/IBb1f5XtpzbP2eRdRApAvzzZNbAF4/vkTVrLyWFGViQuYNVM9Ypy9A+w1V4nY7I7fJwpX0esFBy58Ycz39KADqnqYgw0dliHcd2AnGXD0MlSF4Z7PKElcyOo73Rv/Zwo/7vTfD4wrHbfMYK957sk6DEIclLuiwYhGx9kOiyET++HaoemKgPRPfL8RPlvEJKFhiN3algw13CTjVOIxtI4QJQW1km1mZvdImFIT2DBCcrSAmVCewvW9XFuQqlpfpruLYoHrrxlD/YoUd2sbyEKPMHOD47Tu3ATGU5UUTzKDp6RY+rp7PBeQXCOfxhjtTavtjsbZzx0E7Knl8mDePaYtBOUdEnidqUnVR7a3L0Uq8xpJ6YeQ3+6kJ6tctWsdGb/KgbzG81mIEN4+X6mGuNIadQrLReCdzGJ8pqEhlL+67l2NUUdAIQxVXHHO0XNaEFhHjgiv5MjZaxVBVuRK8lNmOwuTOr2kfWThHBxm9hMgWQPaL3Mx6LK/9neyR143zKp10o2UxeJ4u7tVCu5lxuSCxI6zrQpeAtmnoEYsM2iaWmwps4bn5NG1U7P8W/hLgEu1wCEgT
+       properties :
+        x : 320
+        y : 120
+        width : 72
+        height : 72
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+            SwitchLumière(2)
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : BTN_Lampe_4
+       identifier : 0x26547bd5043b8aa1
+       internal_properties : CAAAAAgAAAB3HG/4eRGBQeN4pbblO8XdFVrEvhrxhPZGNL1shv6OobiUyTHjWrvtA808Jm+jGnaBFhxZPkmd8MnLRIOiWPVq/7UZ9vA3nhJ9dP274Fy9Ho9ieSr0al3q28MF4BeZpjzQLs0yYD587s7QPYEy1J+vrVk9DneFDAfzhCbgOD/tzOWhjtoWeVqfvtgas+O87WLgiZ9DqKUnl93wPw69c3AOYM0xHdsg/VvZJE2DDJHq7yw4eAETK0Rcnnq/lCi4sdMvQCrjnR3VwOunMZVbRzcdu++Yau9Zyi52wkgaxhPFlj+9LC8J9+4pp5bzy5rbV4Hx4b3fX0lqLaKP7kZx3NzMHIutHxTt6NUunVU3Qtkq/h2lmkXwsCGfgUd+ddww6Cg9DBu6WQYWal3DrHtYmiuUm4eN6K4sVRBgzpw3VWiBiGO0/qSAWt/sKhMWkm8GoHWJtj3t8kyWZJyg0q5HiD3Wm8vDeXoGjvuywUe52QR0YYgtd6lAfLUOdAAkn8K3mH0yXhlf5P1RBC+ezEVsPFeYebbOEiTkJaxirUn6AftDFIpktIA2LbuR/cyZ66DJ+cut46GHvU95WP76OPuEOqXZZqXJAllPVgfh8Mc1PS/4M104jVMb3++oFbCnrAezxZXqclj72QtGcHLQOPF90kSHV/Z8zXs+RCkR+ABHjgLI2wBhH/sW3ONqXPNfG1AEFysQPqHnPhoIIjGhB3c16VLcGjGXXriHV3wCKNrI3IW2rPtomccB+QLQpxYBwgn/VT7U7SEepuVu8znUvd/mTH4yz6E+J2yYfv8=
+       properties :
+        x : 683
+        y : 410
+        width : 72
+        height : 72
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           type : 161
+           enabled : false
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MaFenêtre()
+         
+ menu :
+  name : _Menu
+  identifier : 0x2654379e00831668
+  internal_properties : CAAAAAgAAAD7S+2GOLjEeheq9Y6YZGIRPpLnwB8KUS2je4S4X5oxSGrv51WBBaVxxbk/BTEdUwW0fnnvlhQNIBAuQTAO0S9+S8FMTvDhqkS1JydqFJBfHlbZSFzBkZAjjJ5aIH/cuMnF4Pme57TAyYvjnlkzTJmN5UX9hu+BEl3AsIsso5gsz3oX/KHp1ai/xWZCb54MlUFXdWmT2EOpULKqea/LH9EOlTkaiWsV2aM2/FfXQjTSY3NhAR6zEzKHYKVJwiZULchG0D4LNvRbPifZJPDMmlF6ptz+Rg0QN6SXG5jU7HifIzmkonwDFnOJQw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : SwitchLumière
+     procedure_id : 1609058718048960029
+     type_code : 14
+     code : |1-
+      // Résumé : Allume ou éteint une lumière
+      // Syntaxe :
+      //SwitchLumière (<nNum> est entier)
+      //
+      // Paramètres :
+      //	nNum (entier) :L'indice de la lumière
+      
+      PROCEDURE SwitchLumière(nNum est un entier <utile>)
+      
+      // Ici ajoutez votre code de domotique
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1fc795650d2ba62d
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
